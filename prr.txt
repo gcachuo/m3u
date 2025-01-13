@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 
 
+#EXTINF:-1,Canal de Prueba
+http://23.94.21.187:30822/live/cyx-0FC0F6D0472A828540828F_480p.m3u8|Host=23.94.21.187:30822&Connection=Keep-Alive&App=com.msandroid.mobile&App-Version=50801&Content-Auth=/live/?user_id=668161694&trans_id=jydLBJ40WWRR_iWN3RzF5KAVO&app_id=magmob&host=23.94.21.187:30822&app_ver=50801&client_ip=177.231.23.45&expired=1736760919&auth_id=668161694_magmob__0&dev_id=2ef46d1bafd99427587933e5989a9304&tag=free&sign_ver=1&token=b4089c73b2541de75c85c285b41a2ce2&sign2_method=sign_o3&instance=0&start_moment=1736748311351&sig
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="RECOMENDADOS", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 ##EXTVLCOPT:network-caching=1000
